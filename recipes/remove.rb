@@ -1,4 +1,4 @@
-service 'dragnet' do
+service 'dragent' do
   action [ :stop, :disable ]
 end
 
